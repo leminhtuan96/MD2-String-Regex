@@ -1,0 +1,14 @@
+B1: tạo form
+    - email
+    - full name
+    - password
+    - confirm-password
+
+B2: lấy dữ liệu từ form
+
+B3: ktra điều kiện
+
+B4: hiển thị lỗi
+
+B5: chuyển trang nếu đăng nhập thành công
+
